@@ -36,8 +36,12 @@
 
 ## Experience
 
+- 👨‍💻 **Developer Full Stack**\
+📆 May/2021 - at moment\
+📍 **Remoto** - Brazil
+
 - 👨‍💻 **Back End Developer**\
-📆 2018 - at moment\
+📆 2018 - May/2021\
 📍 **Web Works** - Barretos/SP, Brazil
 
 
