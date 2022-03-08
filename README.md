@@ -3,7 +3,7 @@
 
 <p align='center'>Hi, I'm João Victor, but you can call me <strong>Jão</strong>.</p>
 
-<p align='center'>I'm a Developer from Brazil 💚, <strong>20 years old</strong> and <strong>4 years of coding</strong>.</p> 
+<p align='center'>I'm a Developer from Brazil 💚, <strong>21 years old</strong> and <strong>4 years of coding</strong>.</p> 
 
 <p align='center'>
 	<a target="_blank" href="https://www.linkedin.com/in/joao-veiga/">
