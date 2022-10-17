@@ -36,7 +36,7 @@
 
 ## Experience
 
-- 👨‍💻 **Developer Full Stack Pl**\
+- 👨‍💻 **Developer Full Stack**\
 📆 May/2021 - at moment\
 📍 **Remote in Gaudium** - Brazil
 
