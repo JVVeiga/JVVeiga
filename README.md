@@ -23,7 +23,7 @@
 
 <p align='center'><strong>Most used languages in repositories</strong></p>
 <p align='center'>
-  <a href="#"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JVVeiga&langs_count=5&theme=dark&hide_title=true&hide_border=true&cache_seconds=7200" width="350"></a>
+  <a href="#"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=JVVeiga&langs_count=5&theme=dark&hide_title=true&hide_border=true&cache_seconds=7200" width="350"></a>
 </p>
 
 ----
