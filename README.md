@@ -3,7 +3,7 @@
 
 <p align='center'>Hi, I'm João Victor, but you can call me <strong>Jão</strong>.</p>
 
-<p align='center'>I'm a Developer from Brazil 💚, <strong>21 years old</strong> and <strong>4 years of coding</strong>.</p> 
+<p align='center'>I'm a Developer from Brazil 💚, <strong>22 years old</strong> and <strong>5 years of coding</strong>.</p> 
 
 <p align='center'>
 	<a target="_blank" href="https://www.linkedin.com/in/joao-veiga/">
@@ -31,7 +31,7 @@
 ## Education
 
 - 📖 **Information systems**\
-📆 Jan/2019 - Dec/2022\
+📆 Jan/2019 - Jun/2023\
 📍 **Faculdade Barretos** - Barretos, Brazil
 
 ## Experience
