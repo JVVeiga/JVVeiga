@@ -36,12 +36,25 @@
 
 ## Experience
 
+- 👨‍💻 **Tech Lead | Mobility e Payments**\
+📆 January/2025 - Present\
+📍 **Remote in Gaudium** - Brazil
+
+- 👨‍💻 **Tech Lead | Delivery e Payments**\
+📆 July/2023 - December/2024\
+📍 **Remote in Gaudium** - Brazil
+
+- 👨‍💻 **Tech Lead | Delivery**\
+📆 January/2022 - June/2023\
+📍 **Remote in Gaudium** - Brazil
+
 - 👨‍💻 **Developer Full Stack**\
-📆 May/2021 - at moment\
+📆 May/2021 - December/2021\
 📍 **Remote in Gaudium** - Brazil
 
 <p align='center'>
-  <img src="https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=white" />
+<img src="https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=white" />
+<img src="https://img.shields.io/badge/yii-40B3D8?logo=Yii&logoColor=white" />
 <img src="https://img.shields.io/badge/go-%2300ADD8.svg?logo=go&logoColor=white" />
 <img src="https://img.shields.io/badge/MySQL-00000F?logo=mysql&logoColor=white" />
 <img src="https://img.shields.io/badge/redis-%23DD0031.svg?&logo=redis&logoColor=white" />
